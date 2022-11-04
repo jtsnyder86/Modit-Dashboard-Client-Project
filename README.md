@@ -11,7 +11,7 @@
 
 ## Description
 
-The Modit Dashboard is a companion application to Neurotype Inc's Modit Mobile application.  The dashboard is a hub to access the data collected from the mobile application userin order to provide a visualized chart of that data. The data is then used by research/clinic professionals to evaluate triggers and prescribe the most effective therapies to address issues of substance abuse and addiction. Data in it's raw form can be exported as well for use in other research analysis. The dashboard is developed with different levels of users that have varying degrees of access to patient/participant data and information. This application was developed for use by Neurotype Inc. which is a research organization specializing in R&D for substance abuse and addiction.
+The Modit Dashboard is a companion application to Neurotype Inc's Modit Mobile application.  The dashboard is a hub to access the data collected from the mobile application user in order to provide a visualized chart of that data. The data is then used by research/clinic professionals to evaluate triggers and prescribe the most effective therapies to address issues of substance abuse and addiction. Data in it's raw form can be exported as well for use in other research analysis. The dashboard is developed with different levels of users that have varying degrees of access to patient/participant data and information. This application was developed for use by Neurotype Inc. which is a research organization specializing in R&D for substance abuse and addiction.
 
 ## Built With
 
